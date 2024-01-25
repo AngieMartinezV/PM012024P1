@@ -3,4 +3,6 @@
     <string name="apellidos">Ingrese su apellido</string>
     <string name="nombres">Ingrese su nombre</string>
     <string name="telefono">Ingrese su telefono</string>
+    <string name="btn_procesar" />
+    <string name="btn_procesa">Procesar</string>
 </resources>
